@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stpettersens/startt.git"
+    "url": "git://github.com/thonguyen14/startt.git"
   },
   "keywords": [
     "start",
@@ -18,7 +18,7 @@
   "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stpettersens/startt/issues"
+    "url": "https://github.com/thonguyen14/startt/issues"
   },
-  "homepage": "https://github.com/stpettersens/startt"
+  "homepage": "https://github.com/thonguyen14/startt"
 }
