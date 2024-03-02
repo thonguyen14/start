@@ -1,0 +1,24 @@
+{
+  "name": "startt",
+  "version": "1.0.0",
+  "description": "Simple wrapper around starting a process in new window.",
+  "main": "startt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stpettersens/startt.git"
+  },
+  "keywords": [
+    "start",
+    "process",
+    "window"
+  ],
+  "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stpettersens/startt/issues"
+  },
+  "homepage": "https://github.com/stpettersens/startt"
+}
